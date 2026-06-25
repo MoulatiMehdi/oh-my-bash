@@ -5,7 +5,7 @@
 # Copyright (c) 2012-2014 Isaac Wolkerstorfer (@agnoster) and contributors.
 # Copyright (c) 2014 Kenny Root (@kruton).
 # Copyright (c) 2017-2021 Erik Selberg and contributors (https://github.com/speedenator/agnoster-bash/contributors).
-# Copyright (c) 2019-present Toan Nguyen and contributors (https://github.com/ohmybash/oh-my-bash/graphs/contributors).
+# Copyright (c) 2019-present Toan Nguyen and contributors (https://github.com/MoulatiMehdi/oh-my-bash/graphs/contributors).
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -66,7 +66,7 @@
 #
 #   The theme is imported into OMB by PR #54 [6].
 #
-#   [6] https://github.com/ohmybash/oh-my-bash/pull/54.
+#   [6] https://github.com/MoulatiMehdi/oh-my-bash/pull/54.
 #
 #------------------------------------------------------------------------------
 # vim: ft=bash ts=2 sw=2 sts=2

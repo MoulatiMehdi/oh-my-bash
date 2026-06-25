@@ -2,7 +2,7 @@
 # asdf.plugin.sh: asdf plugin for oh-my-bash.
 # Author: @RobLoach (https://github.com/robloach)
 # Author: @prodrigues1912 (https://github.com/prodrigues1912)
-# Originally suggested in https://github.com/ohmybash/oh-my-bash/pull/310
+# Originally suggested in https://github.com/MoulatiMehdi/oh-my-bash/pull/310
 # Fork of the oh-my-zsh asdf plugin
 
 # Custom ASDF_DIR location

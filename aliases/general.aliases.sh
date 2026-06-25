@@ -22,7 +22,7 @@
 #   -----------------------------
 
 # Preferred 'cp' implementation.  Determines the use of the option `-v' on the
-# first call Ref. https://github.com/ohmybash/oh-my-bash/issues/351
+# first call Ref. https://github.com/MoulatiMehdi/oh-my-bash/issues/351
 function _omb_util_alias_select_cp {
   if (tmp=$(_omb_util_mktemp); trap 'rm -f "$tmp"{,.2}' EXIT; command cp -v "$tmp" "$tmp.2" &>/dev/null); then
     _omb_command='cp -iv'

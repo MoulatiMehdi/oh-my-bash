@@ -42,7 +42,7 @@ shopt -s globstar 2> /dev/null
 # expansion.  See a discussion in Ref. [2].  A consistent change was also
 # applied to the upstream bash-sensible [3].
 #
-# [2] https://github.com/ohmybash/oh-my-bash/issues/623
+# [2] https://github.com/MoulatiMehdi/oh-my-bash/issues/623
 # [3] https://github.com/mrzool/bash-sensible/commit/eb82f9e87728ea10423a2a2b039a4b491d10c733
 #
 #shopt -s nocaseglob

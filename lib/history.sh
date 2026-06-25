@@ -69,7 +69,7 @@ _omb_util_add_prompt_command 'history -a'
 #   integer causes the undefined behavior in the C standard), but it is safer
 #   in typical implementations.
 #
-# See discussion on https://github.com/ohmybash/oh-my-bash/issues/586.
+# See discussion on https://github.com/MoulatiMehdi/oh-my-bash/issues/586.
 export HISTSIZE=$((0x7FFF7FFF))
 export HISTFILESIZE=$((0x7FFF7FFF))
 
