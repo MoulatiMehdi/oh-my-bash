@@ -29,8 +29,8 @@ function _omb_theme_PROMPT_COMMAND(){
   fi
 
   PS1=
-  PS1+="$color\n╭───[$code] ${_omb_prompt_bold_cyan}\w$(scm_prompt_info)"
-  PS1+="$color\n╰───▶ ${_omb_prompt_reset_color} "
+  PS1+="$color╭───[$code] ${_omb_prompt_bold_cyan}\w$(scm_prompt_info)\n"
+  PS1+="$color╰───▶ ${_omb_prompt_reset_color} "
 
 }
 
